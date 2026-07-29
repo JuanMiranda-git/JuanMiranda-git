@@ -9,7 +9,7 @@
   
 -🌱 I’m currently a student who wants to become a great developer
 
--📖 Currently learning about: OOP with Java and databases with SQL
+-📖 Currently learning about: OOP with Javascript and databases with SQL
 
   </td>
 <td width="50%" align="center">
